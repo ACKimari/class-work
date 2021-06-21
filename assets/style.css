@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+img{
+    background-color: rgb(48, 21, 2);
+    position: relative;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    margin-left: 500px;
+    border: solid wheat 11px;
+}

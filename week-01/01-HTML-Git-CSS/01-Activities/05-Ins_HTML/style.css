@@ -1,0 +1,13 @@
+body{
+    background: salmon;
+}
+
+.white-text{
+    color: white;
+}
+
+#blue-text{
+    color: rgb(3, 3, 90);
+    text-align: center;
+    margin: 0 80px 0 80px;
+}
